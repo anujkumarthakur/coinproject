@@ -44,13 +44,3 @@ go build -o app
 ```shell
 ./app
 ```
-
-
-
-CREATE TABLE tinyurl (
-	id int NOT NULL AUTO_INCREMENT,
-	long_url varchar(1000) NOT NULL,
-	short_url varchar(500) NOT NULL,
-	url_id bigint(20) NOT NULL,
-    PRIMARY KEY (id)
-);
