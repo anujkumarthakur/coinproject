@@ -8,7 +8,7 @@
 ## Setup
 
 ```shell
-git clone git remote add origin git@github.com:anujkumarthakur/coinproject.git
+git clone git@github.com:anujkumarthakur/coinproject.git
 ```
 
 ```shell
